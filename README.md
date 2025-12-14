@@ -114,7 +114,7 @@ fun_facts:
 <div align="center">
 
 <!-- Inspirational for new coders -->
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=500&lines=🌱+Every+expert+was+once+a+beginner;💪+One+commit+at+a+time;✨+The+journey+of+1000+lines+starts+with+Hello+World" alt="Motivation" />
+> *🌱 Every expert was once a beginner • 💪 One commit at a time • ✨ Hello World is just the start!*
 
 <!-- Skills Progress -->
 | 🎯 Currently Learning | 📈 Progress |
