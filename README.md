@@ -84,17 +84,11 @@ fun_facts:
 
 <div align="center">
 
-<!-- GitHub Stats Card -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silvyyuliana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&ring_color=FF69B4"/>
-
-<!-- Top Languages -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silvyyuliana&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FF69B4&text_color=c9d1d9"/>
+<!-- GitHub Stats Card - shows rank even for new users -->
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=silvyyuliana&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=FF69B4&icon_color=FF69B4&text_color=c9d1d9&ring_color=FF69B4&include_all_commits=true&count_private=true"/>
 
 <!-- Streak Stats -->
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=silvyyuliana&theme=tokyonight&hide_border=true&background=1a1b27&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4"/>
-
-<!-- Activity Graph -->
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=silvyyuliana&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=FF69B4&line=FF69B4&point=FFFFFF&area=true&area_color=FF69B4"/>
+<img height="165em" src="https://streak-stats.demolab.com?user=silvyyuliana&theme=tokyonight&hide_border=true&background=1a1b27&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=FF69B4"/>
 
 </div>
 
@@ -103,20 +97,33 @@ fun_facts:
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
 </div>
 
-## 🏆 GitHub Trophies
+## ✨ Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=silvyyuliana&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+
+<!-- Holopin Badges (sign up at holopin.io) -->
+<!-- <a href="https://holopin.io/@silvyyuliana"><img src="https://holopin.me/silvyyuliana" alt="Holopin badges" /></a> -->
+
+<!-- Cute Stats Cards -->
+<img src="https://github-widgetbox.vercel.app/api/profile?username=silvyyuliana&data=followers,repositories,stars,commits&theme=nightowl"/>
+
 </div>
 
-## 🎀 Contribution Snake
+## 🎀 My Coding Journey
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  </picture>
+
+<!-- Inspirational for new coders -->
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=500&lines=🌱+Every+expert+was+once+a+beginner;💪+One+commit+at+a+time;✨+The+journey+of+1000+lines+starts+with+Hello+World" alt="Motivation" />
+
+<!-- Skills Progress -->
+| 🎯 Currently Learning | 📈 Progress |
+|:--:|:--:|
+| HTML & CSS | ![](https://geps.dev/progress/80?dangerColor=FF69B4&warningColor=FF69B4&successColor=FF69B4) |
+| JavaScript | ![](https://geps.dev/progress/60?dangerColor=FF69B4&warningColor=FF69B4&successColor=FF69B4) |
+| Python | ![](https://geps.dev/progress/35?dangerColor=FF69B4&warningColor=FF69B4&successColor=FF69B4) |
+| Git & GitHub | ![](https://geps.dev/progress/70?dangerColor=FF69B4&warningColor=FF69B4&successColor=FF69B4) |
+
 </div>
 
 <!-- Cute Divider -->
@@ -138,6 +145,7 @@ fun_facts:
 <div align="center">
   
 If you like my work, consider giving it a ⭐!
+(+Available for hiring!)
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
 
